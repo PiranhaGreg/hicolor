@@ -1,0 +1,1 @@
+Utility to convert images from *.ppm (Portable PixMap) to *.HI (HIcolor) and back. HIcolor is proprietary image format used by game [Gates of Skeldal](https://en.wikipedia.org/wiki/Gates_of_Skeldal). More about this format can be found [here](http://skeldal.vyletnici.net/dokumentace/data/formaty.htm).
